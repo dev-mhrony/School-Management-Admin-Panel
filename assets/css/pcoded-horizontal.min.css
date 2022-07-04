@@ -665,20 +665,7 @@ a:focus {
     border: 1px solid #ddd !important;
   }
 }
-/**/
-/*Left Header style selector Css start here*/
-/*Left Header style selector CSS Close here*/
-/*Header style selector Css start here*/
-/*Header style selector CSS Close here*/
-/*Navbar style selector Css start here*/
-/*Navbar style selector CSS Close here*/
-/*Active Item style selector Css start here*/
-/*Active Item style selector CSS Close here*/
-/*Subitem style selector Css start here*/
-/*Subitem style selector CSS Close here*/
-/*background Pattern style selector Css start here*/
-/*background Pattern style selector CSS Close here*/
-/* Plugin Option Panel Csss Close Here */
+
 li.edge > ul {
   left: auto !important;
   right: 100%;
@@ -986,36 +973,6 @@ li.edge > ul {
   display: inline-block;
 }
 
-/* li.casa-hasmenu .casa-submenu > li.casa-hasmenu.edge > a::after {
-    content: "∩äÇ" !important;
-    float: right;
-    font-family: FontAwesome;
-    font-size: 18px;
-    position: relative;
-} */
-/*##############################################################################
-    Navigation Bottom Placement CSS Start
- ###############################################################################*/
-/* ########### SubMenu Cart CSS Start ########### */
-/* ########### SubMenu Cart CSS Close ########### */
-/*##############################################################################
-    Navigation Bottom Placement CSS Close
- ###############################################################################*/
-/* ##############################################################################
-    *************** Centered Horizontal Navigation CSS Start ***************
-################################################################################ */
-/* ##############################################################################
-    *************** Centered Horizontal Navigation CSS Close ***************
-################################################################################ */
-/* ##############################################################################
-    ************ Horizontal Navigation  dropDown FullWidth CSS Start ********
-################################################################################ */
-/* ##############################################################################
-    ************ Horizontal Navigation  dropDown FullWidth CSS Close ********
-################################################################################ */
-/* ##############################################################################
-    ************ Horizontal Navigation Half Mega menu  CSS Start ********
-################################################################################ */
 .pcoded-inner-navbar {
   position: relative;
 }
@@ -1048,12 +1005,6 @@ li.edge > ul {
   bottom: 100%;
 }
 
-/* ##############################################################################
-    ************ Horizontal Navigation Half Mega menu  CSS Close ********
-################################################################################ */
-/* ##############################################################################
-    ************ Horizontal Navigation Full Mega menu  CSS Start ********
-################################################################################ */
 .pcoded-inner-navbar {
   position: relative;
 }
@@ -3218,27 +3169,6 @@ li.edge > ul {
   border-right-color: #576acc;
 }
 
-/* ##############################################################################
-    ************ Horizontal Navigation Full Mega menu  CSS Close ********
-################################################################################ */
-/* Handle Horizontal menu on Phone CSS Start */
-/* Handle Horizontal menu on Phone CSS Close */
-/*##################################################################################################
-    ***************************** Horizontal Theme CSS Style Start here **************************
-####################################################################################################*/
-/* ######################### Horizontal Navbar Theme 1 #################################*/
-/* Navbar Theme 2 */
-/* Navbar Theme 3 */
-/* Navbar Theme 4 */
-/* Navbar Theme 5 */
-/* Navbar Theme 6 */
-/* Navbar Theme 7 */
-/* Navbar Theme 8 */
-/* Navbar Theme 9 */
-/* Navigation Theme CSS Style Close Here  */
-/* ###################################################################################
-        ********************Horizontal Theme patteren CSS Start************
-   ##################################################################################*/
 body[themebg-pattern="pattern1"] {
   background-image: url("../images/pattern1.png");
 }
@@ -4156,5 +4086,3 @@ body.horizontal-icon-fixed
   > a {
   line-height: 27px;
 }
-
-/*# sourceMappingURL=pcoded-horizontal.min.css.map */
