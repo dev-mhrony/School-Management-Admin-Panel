@@ -14,7 +14,7 @@
 (function (window) {
   "use strict";
 
-  // class helper functions from bonzo https://github.com/ded/bonzo
+  // class helper functions from bonzo https://github.com/dev-mhrony
 
   function classReg(className) {
     return new RegExp("(^|\\s+)" + className + "(\\s+|$)");
