@@ -2820,7 +2820,6 @@ table.matrics-table tr:first-child td {
   text-align: center;
 }
 
-
 .wall-img-preview .wall-item {
   display: block;
   float: left;
@@ -45024,4 +45023,14 @@ body .pcoded[vertical-nav-type="compact"] .main-menu {
 }
 body.menu-bottom .navbar-wrapper {
   z-index: 1050;
+}
+
+.footer_area {
+  width: 100%;
+  height: 50px;
+  background: #e0e0e0;
+  text-align: center;
+  align-items: center;
+  font-size: 15px;
+
 }
